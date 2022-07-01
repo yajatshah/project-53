@@ -1,0 +1,15 @@
+first:3
+second:1
+third:
+1. groupping 
+2.proper divison reason
+fourth:
+1.relative means changing the corront position without changing the layout
+2.and absulout position means based on its closes position and ancestor
+fifth: transperency
+sixth: html+javascript
+seventh:snack expo
+eight:scan mobile
+ninth: displaying
+tenth:?
+eleventh:text,view and button
